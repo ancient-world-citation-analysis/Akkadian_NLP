@@ -1,2 +1,2 @@
 # Akkadian_NLP
-JupyterBook for the Akkadian datasets in conllu format
+Jupyternotebooks and Akkadian datasets in conllu format

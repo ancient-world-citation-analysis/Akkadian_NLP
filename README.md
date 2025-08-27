@@ -1,2 +1,2 @@
 # Akkadian_NLP
-Jupyternotebooks and Akkadian datasets in conllu format
+Jupyternote books from the Text-Fabric workflow with the resulting OA and OB datasets

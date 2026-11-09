@@ -1,2 +1,2 @@
 # Akkadian_NLP
-Jupyternote books from the Text-Fabric workflow with the resulting OA and OB datasets
+Jupyter notebooks for Akkadian lemmatization
